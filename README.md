@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there, I'm Nurnaher Aktar Poly👋
 
-<!--
-**NurPoly/NurPoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**
+I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer Science and Engineering**. I have experience building dynamic, scalable, and high-performance web applications using modern technologies.
 
-Here are some ideas to get you started:
+🎓 **Education**:
+- 🎓 BSc in Computer Science and Engineering
+- 
+🛠 **Tech Stack & Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Development
+- HTML, CSS, Bootstrap, Tailwind CSS
+- JavaScript, TypeScript, jQuery, 
+
+### Backend Development
+- MongoDB, MySQL
+- PHP, Laravel
+
+### Tools & Platforms
+- Git, GitHub, VS Code, Postman
+- Firebase,Jenkins,SOA
+  
+### 📫 Connect with Me
+https://www.linkedin.com/in/nurnaher-aktar-poly/
+gmail:nurnaherpoly@gmail.com
+
+- 🔭 I’m currently working on Oculin Tech Limited (Application)
+- 🌱 I’m currently learning Oracle Database,
+
+
