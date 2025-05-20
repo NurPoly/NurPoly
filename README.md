@@ -5,6 +5,7 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer
 
 🎓 **Education**:
 - 🎓 BSc in Computer Science and Engineering
+  
 🛠 **Tech Stack & Skills**
 
 ### Frontend Development
@@ -19,11 +20,5 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer
 - Git, GitHub, VS Code, Postman
 - Firebase,Jenkins,SOA
   
-### 📫 Connect with Me
-linkdin:nurnaher-aktar-poly/
-gmail:nurnaherpoly@gmail.com
-
-- 🔭 I’m currently working on Oculin Tech Limited (Application)
-- 🌱 I’m currently learning Oracle Database,
 
 
