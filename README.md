@@ -8,13 +8,14 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer
   
 🛠 **Tech Stack & Skills**
 
+### Backend Development
+- Python,Pandas,Numpy
+- MongoDB, MySQL
+- PHP, Laravel
+
 ### Frontend Development
 - HTML, CSS, Bootstrap, Tailwind CSS
 - JavaScript, TypeScript, jQuery, 
-
-### Backend Development
-- MongoDB, MySQL
-- PHP, Laravel
 
 ### Tools & Platforms
 - Git, GitHub, VS Code, Postman
